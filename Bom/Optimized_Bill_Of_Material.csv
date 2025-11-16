@@ -1,0 +1,9 @@
+Part,Description,Quantity,Manufacturer,Part Number,Datasheet,Price (EGP),Total Price (EGP)
+Arduino Uno (ATmega328P),Microcontroller board; 16MHz; 5V logic,1.0,Arduino / Compatible,UNO R3,https://docs.arduino.cc/hardware/uno-rev3,545.0,545.0
+LCD 16x2 (HD44780-compatible),Character LCD; 5V; 4-bit interface,1.0,Generic (HD44780),1602A,https://www.openhacks.com/uploadsproductos/eone-1602a1.pdf,105.0,105.0
+Potentiometer 10kΩ (Linear),Analog input for ADC0 (A0),2.0,Generic,B10K,https://www.piher.net/wp-content/uploads/PIHER_PT-10_PTC-10.pdf,10.0,20.0
+Push Button (Momentary),Tact 6x6mm; LL/HL control,2.0,Generic,Tact 6x6,https://omronfs.omron.com/en_US/ecb/products/pdf/en-b3f.pdf,0.75,1.5
+Jumper Wires (Dupont),Male–Male / Male–Female set,1.0,Generic,Dupont Kit,,7.5,7.5
+,,,,,,,
+,,,,,,,
+,,,,,,,
